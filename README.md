@@ -33,7 +33,7 @@ If you wish to replicate this project, you can follow these steps:
 After setting up the environment, you can choose to proceed with either of the following sections:
 
  1. For users who wish to use our pre-trained model to process SEM images and obtain data.
- 2. For users who want to train the model based on the data we provide.
+ 2. For users who want to train the model based on the data we provide or your own dataset.
 
 ## 1. Use our pre-trained model to process SEM images and obtain data
 
@@ -43,22 +43,22 @@ Here, we provide two methods for processing SEM images: one using the command li
 
 #### Step 1
 
-Navigate to the directory containing the `measure_instances.py` file:
+Navigate to the directory containing the `measure_instance.py` file:
 
 - On Linux/macOS:
     ```bash
-    cd path/to/measure_instances
+    cd path/to/measure_instance.py
     ```
 - On Windows (Command Prompt):
     ```cmd
-    cd path/to/measure_instances
+    cd path/to/measure_instance.py
     ```
 - On Windows (PowerShell):
     ```powershell
-    cd path/to/measure_instances
+    cd path/to/measure_instance.py
     ```
 
-Replace `path/to/measure_instances` with the actual path to the directory containing `measure_instances.py`.
+Replace `path/to/measure_instance.py` with the actual path to the directory containing `measure_instance.py`.
 
 #### Step 2
 
