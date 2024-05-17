@@ -1,3 +1,7 @@
+[![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2F86SA5-blue)](https://doi.org/10.17605/OSF.IO/86SA5)
+
+
+
 # Applying Mask R-CNN for Segmenting Backscatter Electron Images of Archaeological Bronze Casting Moulds.
 
 This repository contains deep learning code for instance segmentation of Bronze Casting Moulds particles and detection of their morphological parameters, based on Mask R-CNN. For detailed information, please refer to the paper "Applying Mask R-CNN for Segmenting Backscatter Electron Images of Archaeological Bronze Casting Moulds."
